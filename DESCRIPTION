@@ -4,7 +4,7 @@ Description: Reusable functions for calculating exposure during repeated spans.
 Version: 0.0.1.9000
 Date: 2017-02-21
 Authors@R: c(person("Yui", "Yamaoka", role = c("aut", "cre"), email =
-    "Yui-Yamaoka@ouhsc.edu"), person("David", "Bard", role = "ctb"))
+    "Yui-Yamaoka@ouhsc.edu"))
 URL: https://github.com/OuhscBbmc/referral-exposure, http://ouhsc.edu/bbmc/
 BugReports: https://github.com/OuhscBbmc/referral-exposure/issues
 Depends:
@@ -20,5 +20,5 @@ Suggests:
     testthat (>= 0.9)
 License: MIT + file LICENSE
 LazyData: TRUE
-RoxygenNote: 6.0.1
 Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
